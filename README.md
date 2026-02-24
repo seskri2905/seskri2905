@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 • Completed Master of Technology Computer Science and Engineering at [SRM Institute of Science and Technology, Chennai](https://www.linkedin.com/posts/sesha-krishnan_graduation-mtech-computerscience-ugcPost-7360939645951528960-XJya).
 
-• Completed my 3 Months internsip at [Renault Nissan Technology Business Centre India](https://www.linkedin.com/posts/sesha-krishnan_internship-rntbci-webautomation-ugcPost-7341681592647462912-Zk5l) 🚗
+• Completed my 3 Months internship at [Renault Nissan Technology Business Centre India](https://www.linkedin.com/posts/sesha-krishnan_internship-rntbci-webautomation-ugcPost-7341681592647462912-Zk5l) 🚗
 
 • My main tech stack is MERN,Python,Javascript. 💻
 
