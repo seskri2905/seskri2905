@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seskri2905&label=Profile%20views&color=0e75b6&style=flat" alt="seskri2905" /> </p>
 
+
+## • Completed Master of Technology Computer Science and Engineering at SRM Institute of Science and Technology, Chennai.
+
+## • Completed my 3 Months internship at Renault Nissan Technology Business Centre India 🚗
+
+## • My main tech stack is MERN,Python,Javascript. 💻
+
+## • Recent Projects are [Vid-Tube](https://github.com/seskri2905/VidTube-Youtube-Clone-React) and [EV-olution](https://github.com/seskri2905/EV-Landing-Page) 🌐
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sesha-krishnan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sesha-krishnan/" height="30" width="40" /></a>
