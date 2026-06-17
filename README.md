@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sesha Krishnan</h1>
-<h3 align="center">A full stack developer from Chennai,India 🇮🇳</h3>
+<h3 align="center">A Python Automation Engineer lives in Navi Mumbai,India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seskri2905&label=Profile%20views&color=0e75b6&style=flat" alt="seskri2905" /> </p>
 
