@@ -8,7 +8,9 @@
 
 ## • Completed my 3 Months internship at Renault Nissan Technology Business Centre India 🚗
 
-## • My main tech stack is MERN,Python,Javascript. 💻
+## • Working as an Intern in IKS Health 🧬
+
+## • My main tech stack is Python 💻
 
 ## • Recent Projects are [Vid-Tube](https://github.com/seskri2905/VidTube-Youtube-Clone-React) and [EV-olution](https://github.com/seskri2905/EV-Landing-Page) 🌐
 
